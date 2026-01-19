@@ -25,7 +25,7 @@ tsconfig.json
 jest.config.js
 ```
 
-## ⚡ Requirements to check api in local system also can test jest test.
+## ⚡ Requirements to check api in local system also can test umit test.
 
 - cd typeScript-aws-lambda-api
 
