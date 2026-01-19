@@ -29,7 +29,7 @@ jest.config.js
 
 - cd typeScript-aws-lambda-api
 
-- npm -
+- npm i -f
 
 - THEN RUN BELOW COMMAND TO TEST API
 
