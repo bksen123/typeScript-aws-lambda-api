@@ -1,0 +1,19 @@
+{
+  "name": "typescript-lambda-function",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.0.0",
+    "@types/jsonwebtoken": "^9.0.10",
+    "jest": "^29.0.0",
+    "ts-jest": "^29.0.0",
+    "typescript": "^5.0.0"
+  }
+}
